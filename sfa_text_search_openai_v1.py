@@ -1,10 +1,11 @@
 # /// script
-# Dependencies for uv single-file execution
-# rapidfuzz==3.6.1
-# rich==13.7.0
-# tqdm==4.66.4
-# ripgrep==14.1.0  # installs precompiled binary across platforms
-# openai>=1.23.0  # optional, only required when --llm flag is used
+# dependencies = [
+#   "rapidfuzz==3.6.1",
+#   "rich==13.7.0",
+#   "tqdm==4.66.4",
+#   "ripgrep==14.1.0",
+#   "openai>=1.23.0",
+# ]
 # ///
 
 """SFA Text Search Agent (OpenAI) v1
