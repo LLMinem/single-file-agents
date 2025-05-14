@@ -28,3 +28,7 @@ __pycache__/
 *.pyc
 *.pyo
 *.pyd
+
+**/.claude/settings.local.json
+
+.DS_Store
